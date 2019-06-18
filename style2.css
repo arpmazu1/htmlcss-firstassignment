@@ -1,0 +1,16 @@
+.wrap{
+    width: 600px;
+    margin: auto;
+
+}
+.content{
+    background: red;
+    float: left;
+    width: 450px;
+    height: 600px;
+}
+aside{
+    background: brown;
+    float: left;
+    height: 600px; 
+}
